@@ -28,3 +28,7 @@ the hashcode again.
 c. If I had more time, I would have tested my code more rigorously by trying some possible edge cases, improved the effeciency further. One of the drawbacks of the code for now is that, it creates an object
 for every possible rule in a given range for ip address or port number (worse if the both ip and port number are given in ranges).
 
+
+I am interested in :
+1. Data Team
+2. Platform Team
