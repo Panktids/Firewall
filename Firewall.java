@@ -2,6 +2,10 @@ import java.io.*;
 import java.util.HashSet;
 import java.util.Scanner;
 
+/**
+ * Author: Pankti Shah
+ */
+
 class Firewall {
     // Creating a hashset of networkrule objects
     static HashSet<NetworkRule> allRules = new HashSet<>();
