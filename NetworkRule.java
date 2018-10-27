@@ -1,6 +1,10 @@
 /**
  * class Network rule to create objects of each rule
  */
+
+/**
+ * Author: Pankti Shah
+ */
 class NetworkRule {
     public String direction;
     public String protocol;
